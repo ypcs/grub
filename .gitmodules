@@ -1,0 +1,3 @@
+[submodule "grub-core/lib/libgcrypt"]
+	path = grub-core/lib/libgcrypt
+	url = https://github.com/ypcs/libgcrypt/
